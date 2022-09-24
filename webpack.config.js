@@ -17,15 +17,9 @@ const config = {
       "net": false,
       "http": false,
       "https": false,
-      "dgram": false,
-      "os": false,
       "zlib": false,
-      "path": false,
-      "fs": false,
-      "util": false,
       "utf-8-validate": false,
-      "bufferutil": false,
-      "child_process": false
+      "bufferutil": false
     },
     extensions: ['.tsx', '.ts', '.js']
   },
